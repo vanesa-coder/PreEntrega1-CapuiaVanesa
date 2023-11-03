@@ -1,0 +1,33 @@
+.carrito{
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+.boton{
+  margin-right: 2rem;
+  background-color: #ffb050;
+  border-radius: 50%;
+  border: #ffb050 2px solid;
+  width: 30px;
+}
+
+.navs{
+  margin-left: 12rem;
+}
+.links{
+ margin-left: 50px;
+}
+
+.presentacion{
+  width: 450px;
+  background-color: #ffb050;
+  text-align: center;
+  padding: 20px;
+  margin-left: 450px;
+  margin-top: 80px;
+}
+
+.elBar{
+  font-size: 56px;
+  font-family: cursive;
+}
